@@ -48,14 +48,14 @@ Python &ensp; NoSQL &ensp; MongoDB &ensp; HTML &ensp; Machine Learning Tools &en
 
 ## 🏆 ACHIEVEMENTS
 
-**Big Data Hackathon (12/2020) <br>
+**Big Data Hackathon (12/2020)** <br>
 
-I–enabled banking using machine learning and data analytics for anomaly detection. Won the hackathon conducted by TCS and Westpac.
+AI–enabled banking using machine learning and data analytics for anomaly detection. Won the hackathon conducted by TCS and Westpac.
 
 
-**Paper Presentation(2018) <br>
+**Paper Presentation(2018)** <br>
 
-resented the paper entitled "A Presumptuous Encephalon Electronic Brain Computing in Gaming Gadgets at 3rd IEEE International
+Presented the paper entitled "A Presumptuous Encephalon Electronic Brain Computing in Gaming Gadgets at 3rd IEEE International
 Conference on Recent Trends in Electronics, Information &
 Communication Technology (RTEICT-2018).
 
